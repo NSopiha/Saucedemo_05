@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "saucedemo-05"
+name = "saucedemo-06"
 version = "0.1.0"
 description = ""
-authors = ["akioikeda <principewar@live.com>"]
+authors = ["NSopiha <nataliiasopiha@gmail.com>"]
 readme = "README.md"
-packages = [{include = "saucedemo_05"}]
+#packages = [{include = "saucedemo_05"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
